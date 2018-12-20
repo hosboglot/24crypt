@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting\bin\Release\netstandard2.0\Crypting.deps.json
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting\bin\Release\netstandard2.0\Crypting.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting\bin\Release\netstandard2.0\Crypting.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting\obj\Release\netstandard2.0\Crypting.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting\obj\Release\netstandard2.0\Crypting.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting\obj\Release\netstandard2.0\Crypting.AssemblyInfo.cs
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting\obj\Release\netstandard2.0\Crypting.dll
+C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting\obj\Release\netstandard2.0\Crypting.pdb

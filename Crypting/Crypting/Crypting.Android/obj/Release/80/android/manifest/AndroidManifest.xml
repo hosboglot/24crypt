@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0.0" package="com.companyname.Crypting" android:installLocation="internalOnly">
+  <uses-sdk android:minSdkVersion="19" android:targetSdkVersion="26" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <application android:label="Crypting" android:icon="@mipmap/icon" android:name="android.app.Application" android:allowBackup="true">
+    <activity android:configChanges="orientation|screenSize" android:icon="@mipmap/icon" android:label="Crypting" android:theme="@style/MainTheme" android:name="md5c16f2db5f651e1d6cf32c7f830a3f804.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <service android:name="md5dcb6eccdc824e0677ffae8ccdde42930.KeepAliveService" />
+    <receiver android:enabled="true" android:exported="false" android:name="md51558244f76c53b6aeda52c8a337f2c37.PowerSaveModeBroadcastReceiver" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.companyname.Crypting.mono.MonoRuntimeProvider.__mono_init__" />
+    <meta-data android:name="android.support.VERSION" android:value="26.1.0" />
+    <meta-data android:name="android.arch.lifecycle.VERSION" android:value="27.0.0-SNAPSHOT" />
+  </application>
+</manifest>

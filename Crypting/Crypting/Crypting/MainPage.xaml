@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Crypting"
+             x:Class="Crypting.MainPage"
+             x:Name="ContentPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout BackgroundColor="#e2e2e2" Padding="0, 0, 0, 20">
+                <StackLayout HeightRequest="100" VerticalOptions="Start" HorizontalOptions="FillAndExpand" BackgroundColor="#568cf7">
+                    <Picker x:Name="SetCryptingType" Margin="5, 6, 5, 0" HeightRequest="40"  BackgroundColor="#3861c1" SelectedIndexChanged="Picker_SelectedIndexChangedType" Title="Тип шифрования...">
+                        <Picker.Items>
+                            <x:String>Гаммирование</x:String>
+                            <x:String>Шифр Цезаря</x:String>
+                            <x:String>RSA</x:String>
+                        </Picker.Items>
+                    </Picker>
+
+                    <Picker x:Name="SetOperation" IsEnabled="False" HeightRequest="40"  Margin="5, 1, 5, 0" BackgroundColor="#3861c1" SelectedIndexChanged="Picker_SelectedIndexChangedRev" Title="Операция...">
+                        <Picker.Items>
+                            <x:String>Зашифровать</x:String>
+                            <x:String>Расшифровать</x:String>
+                        </Picker.Items>
+                    </Picker>
+                </StackLayout>
+
+                <StackLayout x:Name="LayEnter"  Margin="4, 10, 4, 0" BackgroundColor="White" IsVisible="False">
+                    <Editor x:Name="KeyEnter" IsVisible="False" Keyboard="Default" AutoSize="TextChanges"></Editor>
+                    <Editor x:Name="MsgEnter" IsVisible="False" Keyboard="Chat" Placeholder="Введите сообщение для шифровки..." AutoSize="TextChanges"></Editor>
+
+                    <Label x:Name="ErrorLabel" IsVisible="False" TextColor="DarkRed"></Label>
+
+                    <Grid>
+                        <Button x:Name="Button" Clicked="Button_ClickedMsg" IsVisible="False" Text="Готово" Grid.Column="0"></Button>
+                        <Button x:Name="SwitchBut" Clicked="SwitchBut_Clicked" IsVisible="False" Text="Перенести гамму вверх" Grid.Column="1" FontSize="Micro" FontAttributes="Bold"></Button>
+                    </Grid>
+                </StackLayout>
+
+                <StackLayout x:Name="LayOut" Margin="4, 10, 4, 0" BackgroundColor="White" IsVisible="False">
+                    <Label x:Name="CipherTextLabel" Text="Сообщение: " FontSize="Medium" IsVisible="False"></Label>
+                    <Editor x:Name="CipherText"  FontSize ="Medium" IsVisible="False" Keyboard="Chat" AutoSize="TextChanges"></Editor>
+                    <Grid>
+                        <Button x:Name="MsgCopy" Clicked="MsgCopy_Clicked" IsVisible="False" Text="Копировать" Grid.Column="0"></Button>
+                        <Button x:Name="MsgSend" Clicked="MsgSend_Clicked" IsVisible="False" Text="Отправить" Grid.Column="1"></Button>
+                    </Grid>
+
+                    <Label x:Name="KeyLabel" Text="Ключ: " FontSize="Medium" IsVisible="False"></Label>
+                    <Editor x:Name="Key" FontSize="Medium" IsVisible="False" Keyboard="Chat" AutoSize="TextChanges"></Editor>
+                    <Button x:Name="KeyCopy" Clicked="KeyCopy_Clicked" IsVisible="False" Text="Копировать ключ"></Button>
+                </StackLayout>
+
+
+                <StackLayout x:Name="LayRSA"  Margin="4, 10, 4, 0" BackgroundColor="White" IsVisible="False">
+                    <Button x:Name="GenRSAKey" Clicked="GenRSAKey_Clicked" IsVisible="False" Text="Сгенерировать ключи"></Button>
+                    <Label x:Name="RSAKeyLabel" Text="Закрытый RSA ключ хранится в памяти и может быть вызван вводом соответствующего открытого ключа. Во время генерации система может зависнуть на несколько секунд." IsVisible="False"></Label>
+                    <Editor x:Name="RSAOpenKey" FontSize="Medium" IsVisible="False"></Editor>
+                    <Grid>
+                        <Button x:Name="OKeyCopy" Text="Копировать" Clicked="OKeyCopy_Clicked" IsVisible="False" Grid.Column="0"></Button>
+                        <Button x:Name="OKeySend" Text="Поделиться ключом" Clicked="OKeySend_Clicked" IsVisible="False" FontSize="Micro" FontAttributes="Bold" Grid.Column="1"></Button>
+                    </Grid>
+                    <Button x:Name="ClearRSAData" Text="Удалить сохраненные ключи" Clicked="ClearRSAData_Clicked" IsVisible="False"></Button>
+                </StackLayout>
+
+                <StackLayout Margin="4, 5, 4, 0" BackgroundColor="White">
+                    <Image x:Name="Capi" Aspect="Fill"></Image>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
