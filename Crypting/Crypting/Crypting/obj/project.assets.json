@@ -502,11 +502,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Documents\\Visual Studio 2017\\Projects\\Crypting\\Crypting\\Crypting\\Crypting.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\hosboglot\\24crypt\\Crypting\\Crypting\\Crypting\\Crypting.csproj",
       "projectName": "Crypting",
-      "projectPath": "C:\\Users\\admin\\Documents\\Visual Studio 2017\\Projects\\Crypting\\Crypting\\Crypting\\Crypting.csproj",
+      "projectPath": "C:\\Users\\admin\\source\\repos\\hosboglot\\24crypt\\Crypting\\Crypting\\Crypting\\Crypting.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Documents\\Visual Studio 2017\\Projects\\Crypting\\Crypting\\Crypting\\obj\\",
+      "outputPath": "C:\\Users\\admin\\source\\repos\\hosboglot\\24crypt\\Crypting\\Crypting\\Crypting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

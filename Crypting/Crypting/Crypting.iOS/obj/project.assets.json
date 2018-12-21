@@ -967,11 +967,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Documents\\Visual Studio 2017\\Projects\\Crypting\\Crypting\\Crypting.iOS\\Crypting.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\hosboglot\\24crypt\\Crypting\\Crypting\\Crypting.iOS\\Crypting.iOS.csproj",
       "projectName": "Crypting.iOS",
-      "projectPath": "C:\\Users\\admin\\Documents\\Visual Studio 2017\\Projects\\Crypting\\Crypting\\Crypting.iOS\\Crypting.iOS.csproj",
+      "projectPath": "C:\\Users\\admin\\source\\repos\\hosboglot\\24crypt\\Crypting\\Crypting\\Crypting.iOS\\Crypting.iOS.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Documents\\Visual Studio 2017\\Projects\\Crypting\\Crypting\\Crypting.iOS\\obj\\",
+      "outputPath": "C:\\Users\\admin\\source\\repos\\hosboglot\\24crypt\\Crypting\\Crypting\\Crypting.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -988,8 +988,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\admin\\Documents\\Visual Studio 2017\\Projects\\Crypting\\Crypting\\Crypting\\Crypting.csproj": {
-              "projectPath": "C:\\Users\\admin\\Documents\\Visual Studio 2017\\Projects\\Crypting\\Crypting\\Crypting\\Crypting.csproj"
+            "C:\\Users\\admin\\source\\repos\\hosboglot\\24crypt\\Crypting\\Crypting\\Crypting\\Crypting.csproj": {
+              "projectPath": "C:\\Users\\admin\\source\\repos\\hosboglot\\24crypt\\Crypting\\Crypting\\Crypting\\Crypting.csproj"
             }
           }
         }

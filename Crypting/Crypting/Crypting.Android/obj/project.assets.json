@@ -980,11 +980,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Documents\\Visual Studio 2017\\Projects\\Crypting\\Crypting\\Crypting.Android\\Crypting.Android.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\hosboglot\\24crypt\\Crypting\\Crypting\\Crypting.Android\\Crypting.Android.csproj",
       "projectName": "Crypting.Android",
-      "projectPath": "C:\\Users\\admin\\Documents\\Visual Studio 2017\\Projects\\Crypting\\Crypting\\Crypting.Android\\Crypting.Android.csproj",
+      "projectPath": "C:\\Users\\admin\\source\\repos\\hosboglot\\24crypt\\Crypting\\Crypting\\Crypting.Android\\Crypting.Android.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Documents\\Visual Studio 2017\\Projects\\Crypting\\Crypting\\Crypting.Android\\obj\\",
+      "outputPath": "C:\\Users\\admin\\source\\repos\\hosboglot\\24crypt\\Crypting\\Crypting\\Crypting.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -1001,8 +1001,8 @@
       "frameworks": {
         "monoandroid80": {
           "projectReferences": {
-            "C:\\Users\\admin\\Documents\\Visual Studio 2017\\Projects\\Crypting\\Crypting\\Crypting\\Crypting.csproj": {
-              "projectPath": "C:\\Users\\admin\\Documents\\Visual Studio 2017\\Projects\\Crypting\\Crypting\\Crypting\\Crypting.csproj"
+            "C:\\Users\\admin\\source\\repos\\hosboglot\\24crypt\\Crypting\\Crypting\\Crypting\\Crypting.csproj": {
+              "projectPath": "C:\\Users\\admin\\source\\repos\\hosboglot\\24crypt\\Crypting\\Crypting\\Crypting\\Crypting.csproj"
             }
           }
         }

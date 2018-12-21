@@ -240,15 +240,14 @@ namespace Crypting
                                 break;
                             }
 
-                            string[] RSAkey = KeyEnter.Text.Split(' ');
-
-                            if (RSAkey == null || KeyEnter.Text == "")
+                            if (KeyEnter.Text == null || KeyEnter.Text == "")
                             {
                                 ErrorLabel.Text = "Введите открытый ключ.";
                                 ErrorLabel.IsVisible = true;
                                 break;
                             }
 
+                            string[] RSAkey = KeyEnter.Text.Split(' ');
                             List<int> RSAOpen = new List<int>();
                             try
                             {
@@ -343,15 +342,14 @@ namespace Crypting
                                 break;
                             }
 
-                            string[] RSAkey = KeyEnter.Text.Split(' ');
-
-                            if (RSAkey == null || KeyEnter.Text == "")
+                            if (KeyEnter.Text == null || KeyEnter.Text == "")
                             {
                                 ErrorLabel.Text = "Введите открытый ключ.";
                                 ErrorLabel.IsVisible = true;
                                 break;
                             }
 
+                            string[] RSAkey = KeyEnter.Text.Split(' ');
                             List<int> RSAOpen = new List<int>();
                             try
                             {
