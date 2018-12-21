@@ -1,42 +1,42 @@
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Crypting.Android.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Crypting.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\FormsViewGroup.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Java.Interop.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Mono.Android.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\mscorlib.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Newtonsoft.Json.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\System.Core.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\System.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\System.Numerics.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\System.Xml.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\System.Xml.Linq.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Arch.Core.Common.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.Annotations.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.Compat.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.Core.UI.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.Core.Utils.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.CustomTabs.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.Design.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.Fragment.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.Media.Compat.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.Transition.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.v4.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.v7.CardView.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.v7.Palette.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Essentials.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Forms.Core.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Forms.Platform.Android.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Forms.Platform.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Forms.Xaml.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\System.Data.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\System.Net.Http.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\System.Runtime.Serialization.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\System.ServiceModel.Internals.dll
-C:\Users\admin\Documents\Visual Studio 2017\Projects\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Mono.Security.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Crypting.Android.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Crypting.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\FormsViewGroup.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Java.Interop.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Mono.Android.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\mscorlib.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\System.Core.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\System.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\System.Numerics.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\System.Xml.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\System.Xml.Linq.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Essentials.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Forms.Core.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\System.Data.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\System.Net.Http.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\System.Runtime.Serialization.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\System.ServiceModel.Internals.dll
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Mono.Security.dll
