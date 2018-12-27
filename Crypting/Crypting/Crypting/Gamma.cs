@@ -34,7 +34,7 @@ namespace Crypting
             return ConvertTC.CodeToText(res);
         }
 
-        public static string alp = "абвгдеёжзийклмнопрстуфхцчшщьыъэюя" +
+        public static string alp = "¶абвгдеёжзийклмнопрстуфхцчшщьыъэюя" +
                             "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЬЫЪЭЮЯ" +
                             "abcdefghijklmnopqrstuvwxyz" +
                             "ABCDEFGHIJKLMNOPQRSTUVWXYZ" +

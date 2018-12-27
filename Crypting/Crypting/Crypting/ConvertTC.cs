@@ -5,7 +5,7 @@ namespace Crypting
 {
     public class ConvertTC
     {
-        public static string alp = "абвгдеёжзийклмнопрстуфхцчшщьыъэюя" +
+        public static string alp = "¶абвгдеёжзийклмнопрстуфхцчшщьыъэюя" +
                             "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЬЫЪЭЮЯ" +
                             "abcdefghijklmnopqrstuvwxyz" +
                             "ABCDEFGHIJKLMNOPQRSTUVWXYZ" +
