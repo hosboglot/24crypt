@@ -58,6 +58,7 @@
                         <Button x:Name="OKeyCopy" Text="Копировать" Clicked="OKeyCopy_Clicked" IsVisible="False" Grid.Column="0"></Button>
                         <Button x:Name="OKeySend" Text="Поделиться ключом" Clicked="OKeySend_Clicked" IsVisible="False" FontSize="Micro" FontAttributes="Bold" Grid.Column="1"></Button>
                     </Grid>
+                    <Label x:Name="RSASize" IsVisible="False"></Label>
                     <Button x:Name="ClearRSAData" Text="Удалить сохраненные ключи" Clicked="ClearRSAData_Clicked" IsVisible="False"></Button>
                 </StackLayout>
 

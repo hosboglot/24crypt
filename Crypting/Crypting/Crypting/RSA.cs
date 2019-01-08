@@ -41,7 +41,6 @@ namespace Crypting
             BigInteger n = a * b;
             BigInteger eil = (a - 1) * (b - 1);
             BigInteger simple = rnd.Next(1, (int)eil);
-
             while (ChSim(eil, simple) != true)
             {
                 simple = rnd.Next(1, (int)eil);

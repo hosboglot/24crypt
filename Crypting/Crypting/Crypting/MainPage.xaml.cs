@@ -25,6 +25,8 @@ namespace Crypting
                 File.WriteAllText(dataFile, "{\"0\":[0,0]}");
             }
             keys = JsonConvert.DeserializeObject<Dictionary<string, List<int>>>(File.ReadAllText(dataFile));
+            FileInfo RSAKeysLength = new FileInfo(dataFile);
+            RSASize.Text = "Размер файла: " + RSAKeysLength.Length + " байт";
         }
 
 
@@ -45,6 +47,7 @@ namespace Crypting
             OKeySend.IsVisible = false;
             OKeyCopy.IsVisible = false;
             ClearRSAData.IsVisible = false;
+            RSASize.IsVisible = false;
             SetOperation.IsEnabled = true;
             LayOut.IsVisible = false;
             LayRSA.IsVisible = false;
@@ -89,6 +92,7 @@ namespace Crypting
             RSAKeyLabel.IsVisible = false;
             RSAOpenKey.IsVisible = false;
             ClearRSAData.IsVisible = false;
+            RSASize.IsVisible = false;
             LayEnter.IsVisible = true;
             LayRSA.IsVisible = false;
             MsgEnter.Text = null;
@@ -409,6 +413,7 @@ namespace Crypting
             List<int> RSAClosed = new List<int>();
             List<int> RSAOpen = new List<int>();
             RSA.GenKey(out RSAOpen, out RSAClosed);
+            FileInfo RSAKeysLength = new FileInfo(dataFile);
             RSAOpenKey.Text = string.Join(" ", RSAOpen);
             try
             {
@@ -419,6 +424,7 @@ namespace Crypting
                 keys = new Dictionary<string, List<int>>{ { string.Join(" ", RSAOpen), RSAClosed } };
             }
             File.WriteAllText(dataFile, JsonConvert.SerializeObject(keys));
+            RSASize.Text = "Размер файла: " + RSAKeysLength.Length + " байт";
             OKeySend.IsVisible = true;
             OKeyCopy.IsVisible = true;
         }
@@ -432,6 +438,7 @@ namespace Crypting
             RSAKeyLabel.IsVisible = true;
             RSAOpenKey.IsVisible = true;
             LayRSA.IsVisible = true;
+            RSASize.IsVisible = true;
             ClearRSAData.IsVisible = true;
             if (operation != -1)
             {

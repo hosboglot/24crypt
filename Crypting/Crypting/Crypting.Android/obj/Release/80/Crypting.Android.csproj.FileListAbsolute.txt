@@ -165,6 +165,7 @@ C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android
 C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\bin\Release\FormsViewGroup.dll.mdb
 C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\bin\Release\Xamarin.Essentials.dll.mdb
 C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\bin\Release\Crypting.Android.dll.mdb
 C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\linksrc\Crypting.pdb
 C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\linksrc\Mono.Android.pdb
 C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\linksrc\mscorlib.pdb
@@ -191,7 +192,6 @@ C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android
 C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\linksrc\FormsViewGroup.dll.mdb
 C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\linksrc\Xamarin.Essentials.dll.mdb
 C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
-C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\bin\Release\Crypting.Android.dll.mdb
 C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Crypting.Android.dll.mdb
 C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\FormsViewGroup.dll.mdb
 C:\Users\admin\source\repos\hosboglot\24crypt\Crypting\Crypting\Crypting.Android\obj\Release\80\android\assets\Xamarin.Essentials.dll.mdb
