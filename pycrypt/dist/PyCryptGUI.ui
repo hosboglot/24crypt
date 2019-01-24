@@ -31,7 +31,7 @@
      </font>
     </property>
     <property name="currentIndex">
-     <number>0</number>
+     <number>2</number>
     </property>
     <widget class="QWidget" name="tab">
      <attribute name="title">
@@ -589,6 +589,9 @@
       <property name="text">
        <string>Ваш публичный ключ: </string>
       </property>
+      <property name="readOnly">
+       <bool>true</bool>
+      </property>
      </widget>
      <widget class="QLineEdit" name="privateKey">
       <property name="geometry">
@@ -608,6 +611,9 @@
       </property>
       <property name="text">
        <string>Ваш приватный ключ:</string>
+      </property>
+      <property name="readOnly">
+       <bool>true</bool>
       </property>
      </widget>
      <widget class="QLineEdit" name="getForX">
@@ -629,6 +635,9 @@
       <property name="text">
        <string>Ваш расшифрованный текст будет тут</string>
       </property>
+      <property name="readOnly">
+       <bool>true</bool>
+      </property>
      </widget>
      <widget class="QLineEdit" name="getToX">
       <property name="geometry">
@@ -648,6 +657,9 @@
       </property>
       <property name="text">
        <string>Ваш зашифрованный текст будет тут</string>
+      </property>
+      <property name="readOnly">
+       <bool>true</bool>
       </property>
      </widget>
      <widget class="QCheckBox" name="A_M">
@@ -793,7 +805,7 @@
        </rect>
       </property>
       <property name="text">
-       <string>Сгенерирвоать</string>
+       <string>Сгенерировать</string>
       </property>
      </widget>
      <widget class="QCheckBox" name="checkFileGam">
@@ -895,6 +907,9 @@
       <property name="text">
        <string>Ваш зашифрованный текст будет тут</string>
       </property>
+      <property name="readOnly">
+       <bool>true</bool>
+      </property>
      </widget>
      <widget class="QPushButton" name="encGamStart">
       <property name="geometry">
@@ -994,6 +1009,9 @@
       </property>
       <property name="text">
        <string>Ваш расшифрованный текст будет тут</string>
+      </property>
+      <property name="readOnly">
+       <bool>true</bool>
       </property>
      </widget>
      <widget class="QPushButton" name="decGamStart">
@@ -1208,6 +1226,9 @@
       <property name="text">
        <string>Ваш зашифрованный текст будет тут</string>
       </property>
+      <property name="readOnly">
+       <bool>true</bool>
+      </property>
      </widget>
      <widget class="QPushButton" name="CeStartE">
       <property name="geometry">
@@ -1292,6 +1313,9 @@
       </property>
       <property name="text">
        <string>Ваш расшифрованный текст будет тут</string>
+      </property>
+      <property name="readOnly">
+       <bool>true</bool>
       </property>
      </widget>
      <widget class="QPushButton" name="CeStartD">
