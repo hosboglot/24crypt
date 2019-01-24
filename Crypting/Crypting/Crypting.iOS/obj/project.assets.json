@@ -723,7 +723,7 @@
       ]
     },
     "System.Numerics.Vectors/4.5.0": {
-      "sha512": "AK4wVgiJqQQCALZ+2ZFY3UqEyIunVlNSBLAHNyI8bJfLT5c9kHZH3nVF2KUWYd1/2POvaz3xx9K6nSKo6m78Ew==",
+      "sha512": "nATsBTD2CKr4AYN6eRszhX4sptImWmBJwB/U6XKCWWfnCcrTBw8XSCm3QA9gjppkHTr8OkXUY21MR91D3QZXsw==",
       "type": "package",
       "path": "system.numerics.vectors/4.5.0",
       "files": [
@@ -962,20 +962,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\ae40i\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\hosboglot\\24crypt\\Crypting\\Crypting\\Crypting.iOS\\Crypting.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\ae40i\\Source\\Repos\\24crypt\\Crypting\\Crypting\\Crypting.iOS\\Crypting.iOS.csproj",
       "projectName": "Crypting.iOS",
-      "projectPath": "C:\\Users\\admin\\source\\repos\\hosboglot\\24crypt\\Crypting\\Crypting\\Crypting.iOS\\Crypting.iOS.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\source\\repos\\hosboglot\\24crypt\\Crypting\\Crypting\\Crypting.iOS\\obj\\",
+      "projectPath": "C:\\Users\\ae40i\\Source\\Repos\\24crypt\\Crypting\\Crypting\\Crypting.iOS\\Crypting.iOS.csproj",
+      "packagesPath": "C:\\Users\\ae40i\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ae40i\\Source\\Repos\\24crypt\\Crypting\\Crypting\\Crypting.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ae40i\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -988,8 +988,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\admin\\source\\repos\\hosboglot\\24crypt\\Crypting\\Crypting\\Crypting\\Crypting.csproj": {
-              "projectPath": "C:\\Users\\admin\\source\\repos\\hosboglot\\24crypt\\Crypting\\Crypting\\Crypting\\Crypting.csproj"
+            "C:\\Users\\ae40i\\Source\\Repos\\24crypt\\Crypting\\Crypting\\Crypting\\Crypting.csproj": {
+              "projectPath": "C:\\Users\\ae40i\\Source\\Repos\\24crypt\\Crypting\\Crypting\\Crypting\\Crypting.csproj"
             }
           }
         }
